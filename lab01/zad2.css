@@ -1,0 +1,30 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align:center;
+}
+
+header h1{
+    margin: 0;
+}
+
+section p {
+    margin-top:0;
+    padding-top: 0;
+    margin-left: 3em;
+}
+
+section h2{
+    margin-bottom: 0;
+}
+
+article{
+    display:flex;
+    align-items: left;
+    justify-content: center;
+    flex-direction: column;
+    width: 50%;
+    margin-left: 25%;
+}
